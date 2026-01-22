@@ -1,12 +1,9 @@
 <html>
 <head>
-<<<<<<< HEAD
+
 <link rel="stylesheet" href="style1.css">
-
-=======
-
 <script src="script1.js"></script>
->>>>>>> script
+
 </head>
 <body>
 <div class="titre1">
