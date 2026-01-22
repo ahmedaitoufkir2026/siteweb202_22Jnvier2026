@@ -1,10 +1,15 @@
 <html>
 <head>
+<<<<<<< HEAD
+<link rel="stylesheet" href="style1.css">
 
+=======
 
+<script src="script1.js"></script>
+>>>>>>> script
 </head>
 <body>
-<div>
+<div class="titre1">
 Download Visual Studio with Copilot
 </div>
 <p>
@@ -13,7 +18,7 @@ Chat with Copilot to build your first website, troubleshoot your code, or guide 
 </p>
 
 
-<div>
+<div class="titre1">
 Download GitHub for Desktop
 </div>
 <p>
@@ -24,5 +29,8 @@ GitHub Desktop simplifies Git workflows and brings core GitHub features to your 
 GitHub Desktop simplifies Git workflows and brings core GitHub features to your desktop,<br>
  helping developers of all levels focus on building and collaborating effectively.<br>
 </p>
+
+<input type="button" value="sauvegarder" onclick="afficher()"/>
+<input type="reset" value="effacer"/>
 </body>
 </html>
